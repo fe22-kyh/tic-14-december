@@ -1,0 +1,14 @@
+.gameboard{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 15em;
+    width: 15.4em;
+    justify-content: center;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.card{
+    height: 5em;
+    width: 5em;
+    border: 1px solid black;
+}
